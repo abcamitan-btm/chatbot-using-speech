@@ -8,7 +8,11 @@ This is how this web app works:
 
 #To run this Voice recognition bot chat
 
-1) Run below command in terminal
+1) Install all dependencies by running below command.
+
+npm install
+
+2) Run the node server by running below command.
 
 node index.js
 
